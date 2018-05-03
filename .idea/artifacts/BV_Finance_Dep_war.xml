@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BV_Finance_Dep:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="BV_Finance_Dep-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="BV_Finance_Dep:war exploded" />
+    </root>
+  </artifact>
+</component>

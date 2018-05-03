@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - invincible_com@localhost" uuid="5316b803-3c07-4ee5-affd-8484adcfb473">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>invincible_com.*</schema-pattern>
+      <default-schemas>invincible_com.*</default-schemas>
+    </data-source>
+  </component>
+</project>

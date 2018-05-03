@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="com.ic.entity.Ictuser" table="ictuser" schema="invincible_com">
+        <id name="loginId" column="loginID"/>
+        <property name="loginPass" column="loginPass"/>
+        <property name="name" column="name"/>
+        <property name="birthday" column="birthday"/>
+        <property name="cellphone" column="cellphone"/>
+        <property name="department" column="department"/>
+    </class>
+</hibernate-mapping>
